@@ -1,0 +1,5 @@
+Pyqt5
+pandas
+docx
+openpyxl
+python-docx
